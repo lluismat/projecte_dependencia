@@ -9,7 +9,7 @@ package projecte_dependencia;
  *
  * @author lluis
  */
-public class Projecte_Dependencia {
+public class main {
 
     /**
      * @param args the command line arguments
